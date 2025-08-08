@@ -1,1 +1,1 @@
-# C-Project-on-shopping-cart
+# C++ Project-on-shopping-cart
